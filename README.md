@@ -1,4 +1,4 @@
-# 🏡 Previsão de Preços de Imóveis com Machine Learning
+# 🏡 Previsão de preços de imóveis com Machine Learning
 O objetivo principal desse projeto foi desenvolver e avaliar um modelo de Machine Learning capaz de prever o preço de venda de casas com base em suas características físicas.
 
 ---
