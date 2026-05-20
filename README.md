@@ -3,10 +3,10 @@ O objetivo principal desse projeto foi desenvolver e avaliar um modelo de Machin
 
 ---
 
-## 📌 Contexto do problema
+## 📌 Contexto
 No mercado imobiliário, precificar um imóvel de forma errada pode significar prejuízo para o vendedor ou meses com o imóvel parado no catálogo. Este projeto simula uma solução para empresas do setor, automatizando o cálculo de estimativa de preço com base em dados históricos para dar mais segurança e agilidade aos corretores.
 
-## 📊 O Conjunto de dados
+## 📊 Conjunto de dados
 Os dados utilizados neste projeto contam com informações estruturadas sobre imóveis, incluindo as seguintes variáveis principais:
 * `area_m2`: Área útil ou construída do imóvel.
 * `quartos`: Quantidade de dormitórios.
