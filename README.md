@@ -1,6 +1,7 @@
 # 🏡 Previsão de Preços de Imóveis com Machine Learning
 O objetivo principal desse projeto foi desenvolver e avaliar um modelo de Machine Learning capaz de prever o preço de venda de casas com base em suas características físicas.
 
+---
 
 ## 📌 Contexto do problema
 No mercado imobiliário, precificar um imóvel de forma errada pode significar prejuízo para o vendedor ou meses com o imóvel parado no catálogo. Este projeto simula uma solução para empresas do setor, automatizando o cálculo de estimativa de preço com base em dados históricos para dar mais segurança e agilidade aos corretores.
@@ -44,6 +45,7 @@ Abaixo está um exemplo de como o modelo se comportou na prática testando imóv
 
 *(Obs: Você pode substituir os valores da tabela acima pelos números reais que a sua tabela de comparação gerou na tela)*
 
+---
 
 ## 🧑‍💻 Como Executar este Projeto
 
