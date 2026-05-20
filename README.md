@@ -49,7 +49,7 @@ Abaixo está um exemplo de como o modelo se comportou na prática testando imóv
 
 ## 🧑‍💻 Como Executar este Projeto
 
-1. Clone o repositório para a sua máquina
+1. Clone o repositório para a sua máquina.
 2. Abra o arquivo projeto_imoveis.ipynb no seu VS Code ou ambiente Jupyter Notebook.
 3. Certifique-se de ter as bibliotecas instaladas (pandas, scikit-learn, matplotlib, seaborn).
 4. Execute as células de código sequencialmente.
