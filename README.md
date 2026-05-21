@@ -17,10 +17,10 @@ Os dados utilizados neste projeto contam com informações estruturadas sobre im
 * **Linguagem:** Python
 * **Manipulação de dados:** Pandas e NumPy
 * **Visualização de dados:** Matplotlib e Seaborn
-* **Machine Learning:** Scikit-Learn (Algoritmo de Regressão Linear)
+* **Machine Learning:** Scikit-Learn (algoritmo de regressão linear)
 
 ## 🚀 Ciclo de desenvolvimento do projeto
-O projeto foi estruturado seguindo as melhores práticas do pipeline de Ciência de Dados:
+O projeto foi estruturado seguindo as melhores práticas do pipeline de ciência de dados:
 
 1. **Entendimento dos dados:** Leitura da base e identificação das variáveis explicativas e da variável alvo.
 2. **Divisão de dados:** Separação estrita da base de dados usando a técnica `train_test_split` (80% para treino do algoritmo e 20% para testes independentes), garantindo que o modelo seja avaliado com dados que ele nunca viu antes.
@@ -30,10 +30,10 @@ O projeto foi estruturado seguindo as melhores práticas do pipeline de Ciência
 ## 📈 Resultados e métricas do modelo
 Após rodar o modelo completo, o desempenho foi avaliado através de duas métricas principais:
 
-* **MAE (Erro Médio Absoluto):** [Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00]
+* **MAE (Erro Médio Absoluto):** (Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00)
   * O que significa: Em média, as previsões do modelo erram o valor real da casa por esta margem (para mais ou para menos).
-* **R² (Score de Precisão):** [Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94]
-  * O que significa: O modelo consegue explicar [Ex: 94%] da variação dos preços das casas usando apenas as características fornecidas.
+* **R² (Score de Precisão):** (Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94)
+  * O que significa: O modelo consegue explicar (Ex: 94%) da variação dos preços das casas usando apenas as características fornecidas.
 
 ### 🔍 Amostra prática (Previsão vs. Realidade)
 Abaixo está um exemplo de como o modelo se comportou na prática testando imóveis novos:
