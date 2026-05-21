@@ -43,7 +43,7 @@ Abaixo está um exemplo de como o modelo se comportou na prática testando imóv
 | R$ 550.000,00 | R$ 542.100,00 | R$ 7.900,00 |
 | R$ 195.000,00 | R$ 203.400,00 | R$ 8.400,00 |
 
-(Obs: Você pode substituir os valores da tabela acima pelos números reais que a sua tabela de comparação gerou na tela)*
+(Obs: Você pode substituir os valores da tabela acima pelos números reais que a sua tabela de comparação gerou na tela)
 
 ---
 
