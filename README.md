@@ -11,7 +11,7 @@ Os dados utilizados neste projeto contam com informações estruturadas sobre im
 * `area_m2`: Área útil ou construída do imóvel.
 * `quartos`: Quantidade de dormitórios.
 * `vagas_garagem`: Vagas de estacionamento disponíveis.
-* `preco_venda`: O preço final de venda (nossa variável alvo / target).
+* `preco_venda`: O preço final de venda.
 
 ## 🛠️ Tecnologias e ferramentas utilizadas
 * **Linguagem:** Python
@@ -31,9 +31,9 @@ O projeto foi estruturado seguindo as melhores práticas do pipeline de Ciência
 Após rodar o modelo completo, o desempenho foi avaliado através de duas métricas principais:
 
 * **MAE (Erro Médio Absoluto):** [Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00]
-  * *O que significa:* Em média, as previsões do modelo erram o valor real da casa por esta margem (para mais ou para menos).
+  * O que significa:* Em média, as previsões do modelo erram o valor real da casa por esta margem (para mais ou para menos).
 * **R² (Score de Precisão):** [Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94]
-  * *O que significa:* O modelo consegue explicar [Ex: 94%] da variação dos preços das casas usando apenas as características fornecidas.
+  * O que significa:* O modelo consegue explicar [Ex: 94%] da variação dos preços das casas usando apenas as características fornecidas.
 
 ### 🔍 Amostra prática (Previsão vs. Realidade)
 Abaixo está um exemplo de como o modelo se comportou na prática testando imóveis novos:
@@ -43,7 +43,7 @@ Abaixo está um exemplo de como o modelo se comportou na prática testando imóv
 | R$ 550.000,00 | R$ 542.100,00 | R$ 7.900,00 |
 | R$ 195.000,00 | R$ 203.400,00 | R$ 8.400,00 |
 
-*(Obs: Você pode substituir os valores da tabela acima pelos números reais que a sua tabela de comparação gerou na tela)*
+(Obs: Você pode substituir os valores da tabela acima pelos números reais que a sua tabela de comparação gerou na tela)*
 
 ---
 
