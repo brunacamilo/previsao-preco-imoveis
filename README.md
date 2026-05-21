@@ -30,10 +30,10 @@ O projeto foi estruturado seguindo as melhores práticas do pipeline de ciência
 ## 📈 Resultados e métricas do modelo
 Após rodar o modelo completo, o desempenho foi avaliado através de duas métricas principais:
 
-* **MAE (Erro Médio Absoluto):** (Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00)
+* **MAE (Erro Médio Absoluto):** [Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00]
   * O que significa: Em média, as previsões do modelo erram o valor real da casa por esta margem (para mais ou para menos).
-* **R² (Score de Precisão):** (Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94)
-  * O que significa: O modelo consegue explicar (Ex: 94%) da variação dos preços das casas usando apenas as características fornecidas.
+* **R² (Score de Precisão):** [Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94]
+  * O que significa: O modelo consegue explicar [ex: 94%] da variação dos preços das casas usando apenas as características fornecidas.
 
 ### 🔍 Amostra prática (Previsão vs. Realidade)
 Abaixo está um exemplo de como o modelo se comportou na prática testando imóveis novos:
