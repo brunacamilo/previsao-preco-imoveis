@@ -24,7 +24,7 @@ O projeto foi estruturado seguindo as melhores práticas do pipeline de Ciência
 
 1. **Entendimento dos dados:** Leitura da base e identificação das variáveis explicativas e da variável alvo.
 2. **Divisão de dados:** Separação estrita da base de dados usando a técnica `train_test_split` (80% para treino do algoritmo e 20% para testes independentes), garantindo que o modelo seja avaliado com dados que ele nunca viu antes.
-3. **Treinamento do modelo:** Instanciação e ajuste do algoritmo de **Regressão Linear** (`LinearRegression`) utilizando os dados de treino (`.fit()`).
+3. **Treinamento do modelo:** Instanciação e ajuste do algoritmo de regressão linear utilizando os dados de treino.
 4. **Previsão e avaliação:** Geração de previsões automáticas para os dados de teste e comparação matemática entre os preços reais e os "chutes" do modelo.
 
 ## 📈 Resultados e métricas do modelo
