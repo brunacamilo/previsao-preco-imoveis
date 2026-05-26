@@ -20,7 +20,7 @@ Os dados utilizados neste projeto contam com informações estruturadas sobre im
 * **Machine Learning:** Scikit-Learn (algoritmo de regressão linear)
 
 ## 🚀 Ciclo de desenvolvimento do projeto
-O projeto foi estruturado seguindo as melhores práticas do pipeline de ciência de dados:
+O projeto foi estruturado seguindo as melhores práticas de um pipeline de ciência de dados:
 
 1. **Entendimento dos dados:** Leitura da base e identificação das variáveis explicativas e da variável alvo.
 2. **Divisão de dados:** Separação estrita da base de dados usando a técnica `train_test_split` (80% para treino do algoritmo e 20% para testes independentes), garantindo que o modelo seja avaliado com dados que ele nunca viu antes.
@@ -33,7 +33,7 @@ Após rodar o modelo completo, o desempenho foi avaliado através de duas métri
 * **MAE (Erro Médio Absoluto):** [Insira aqui o valor do MAE que apareceu no seu terminal, ex: R$ 15.230,00]
   * O que significa: Em média, as previsões do modelo erram o valor real da casa por esta margem (para mais ou para menos).
 * **R² (Score de Precisão):** [Insira aqui o valor do R2 que apareceu no seu terminal, ex: 0.94]
-  * O que significa: O modelo consegue explicar [ex: 94%] da variação dos preços das casas usando apenas as características fornecidas.
+  * O que significa: O modelo consegue explicar (ex: 94%) da variação dos preços das casas usando apenas as características fornecidas.
 
 ### 🔍 Amostra prática (Previsão vs. Realidade)
 Abaixo está um exemplo de como o modelo se comportou na prática testando imóveis novos:
